@@ -1,14 +1,30 @@
-h1{
-background-color: lightgreen;
-text-align:left;
-font-family: sans serif;
-color:solid black;
+h1
+{
+  background-color: lightgreen;
+  text-align:left;
+  font-family: sans serif;
+  color:solid black;
 }
 p
 {
-font-style: italic;
-font-family: Segoe UI;
-text-align:left;
-color:solid black;
-
+  font-style: italic;
+  font-family: Segoe UI;
+  text-align:left;
+  color:solid black;
+  padding:15px;
+}
+table
+{
+  align:left;
+  text-align:center;
+  border:10px;
+  margin:10px solid black;
+}
+a:link 
+{
+  color:red;
+}
+a:visited 
+{
+  color:green;
 }
