@@ -1,9 +1,11 @@
+/* Heading */
 h1{
 background-color: lightgreen;
 text-align:left;
 font-family: sans serif;
 color:solid black;
 }
+/* Paragraph */
 p
 {
 font-style: italic;
@@ -12,6 +14,7 @@ text-align:left;
 color:solid black;
 padding:15px;
 }
+/* Table */
 table
 {
 align:left;
@@ -19,10 +22,12 @@ text-align:center;
 border:10px;
 margin:10px solid black;
 }
+/* Link */
 a:link 
 {
 color:red;
 }
+/* link visited */
 a:visited 
 {
 color:green;
